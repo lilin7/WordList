@@ -1,5 +1,4 @@
-// Student Name: Lin Li
-// Student ID: 40044486
+// Lin Li
 #include<iostream>
 using namespace std;
 #include<fstream>
