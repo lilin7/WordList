@@ -1,6 +1,6 @@
-// Assignment 1
+
 // Student Name: Lin Li
-// Student ID: 40044486
+
 
 
 This program uses 3 classes (each has a .h file and a .cpp file) and a driver.cpp file to process a txt file.
